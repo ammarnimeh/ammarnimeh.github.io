@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head ul{
+    list-style-type: none;
+    background-color: #121212;
+    background-size: cover;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    opacity: 0.9;
+}
+
+.head ul li {
+    display: inline-block;
+    font-weight: lighter;
+    font-size: 12px;
+    margin-left: 50px;
+    margin-top: 3px;
+}
+
+.head ul li a {
+    color: RGB(255, 255, 255);
+    text-decoration: none;
+}
+
+.search-icon,
+.apple-icon{
+    width: 20px;
+    position: relative;
+    top: 5px;
+}
+
+.first-section {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.phone-name {
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 55px;
+}
+
+.first-section .pro {
+    font-size: 40px;
+    font-weight: lighter;
+    line-height: 2;
+}
+
+.first-section a,
+.section1 a,
+.section2 a,
+.watch a,
+.airpods a {
+    color: #227ED6;
+    font-size: 20px;
+    font-weight: lighter;
+    text-decoration: none;
+    line-height: 2;
+}
+
+.first-section a:hover,
+.section1 a:hover,
+.section2 a:hover,
+.watch .w td a:hover,
+.airpods .w2 td a:hover {
+    text-decoration: underline;
+}
+
+.iphone14 {
+    width: 900px;
+    margin-top: 100px;
+}
+
+.section1,
+.section2{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.section1 {
+    background-color: #FAFAFA;
+}
+
+.section2 {
+    background-color: #F5F5F7;
+}
+
+.section1 h1,
+.section2 h1 {
+    font-size: 50px;
+    padding-top: 70px;
+}
+
+.section1 p,
+.section2 p {
+    font-size: 25px;
+}
+
+.section1 img,
+.section2 img {
+    width: 1000px;
+}
+
+table {
+    border: 10px solid white;
+}
+
+.watch,
+.airpods {
+    background-color: #000000;
+    margin: 200px;
+    text-align: center;
+    color: white;
+    width: 700px;
+    height: 500px;
+}
+
+.icon {
+    width: 58px;
+    position: relative;
+    top: 10px;
+    left: 13px;
+}
+
+.watch h1 {
+    display: inline-block;
+    font-size: 40px;
+    margin-right: 58px;
+}
+
+.watch p{
+    font-size: 15px;
+}
+
+#p1 {
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+.apple-watch {
+    width: 450px;
+    margin-top: 200px;
+}
+
+.w {
+    position: relative;
+    top: 70px;
+}
+
+.airpods h1 {
+    font-size: 40px;
+}
+
+.airpods p {
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+.w2{
+    position: relative;
+    top: 105px;
+} 
+
+.air {
+    width: 700px;
+    margin-top: 205px;
+}
+
+
+
