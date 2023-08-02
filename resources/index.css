@@ -1,0 +1,158 @@
+body {
+    background-color: #1F1F1F;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#name {
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+h2 {
+    color: aliceblue;
+    font-weight: lighter;
+}
+
+h6 {
+    color: gray;
+    font-weight: lighter;
+    font-family:Helvetica;
+    font-size: 15px;
+}
+
+span {
+    color: gray;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    text-align: center;
+    column-gap: 10px;
+    color: white;
+}
+
+.grid-item h1{
+    border-radius: 20px;
+}
+
+._1 h1 {
+    color:  #7FFF00;
+    background-color:  #7FFF00;
+}
+
+._2 h1 {
+    color:  #DEB887 ;
+    background-color:  #DEB887 ;
+}
+
+._3 h1 {
+    color:  #5F9EA0;
+    background-color:  #5F9EA0;
+}
+
+._4 h1 {
+    color:  #6495ED;
+    background-color:  #6495ED;
+}
+
+._5 h1 {
+    color:  #8B008B ;
+    background-color:  #8B008B ;
+}
+
+._6 h1 {
+    color:  #FF1493;
+    background-color:  #FF1493;
+}
+
+._7 h1 {
+    color:  #FFD700;
+    background-color:  #FFD700;
+}
+
+._8 h1 {
+    color:  #F08080;
+    background-color:  #F08080;
+}
+
+._9 h1 {
+    color:  #00FA9A;
+    background-color:  #00FA9A;
+}
+
+._10 h1 {
+    color:  #808000;
+    background-color:  #808000;
+}
+
+._11 h1 {
+    color:  #D8BFD8;
+    background-color:  #D8BFD8;
+}
+
+._12 h1 {
+    color:  #4682B4;
+    background-color:  #4682B4;
+}
+
+._13 h1 {
+    color:  #4169E1;
+    background-color:  #4169E1;
+}
+
+._14 h1 {
+    color:  #DA70D6;
+    background-color:  #DA70D6;
+}
+
+._15 h1 {
+    color:  #F5DEB3 ;
+    background-color:  #F5DEB3;
+}
+
+.grid-item2 h1 {
+    font-size: 70px;
+}
+
+.grid-item2 p {
+    font-size: 30px;
+}
+
+._111 h1 {
+    font-family: Arial,sans-serif;
+}
+
+._22 h1 {
+    font-family: Verdana;
+}
+
+._33 h1 {
+    font-family: Tahoma;
+}
+
+._44 h1 {
+    font-family: 'Trebuchet MS';
+}
+
+._55 h1 {
+    font-family: 'Times New Roman';
+}
+
+._66 h1 {
+    font-family: Georgia;
+}
+
+._77 h1 {
+    font-family: Garamond;
+}
+
+._88 h1 {
+    font-family: 'Courier New';
+}
+
+._99 h1 {
+    font-family: 'Brush Script MT';
+}
+
